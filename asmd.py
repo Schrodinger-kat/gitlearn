@@ -1,14 +1,14 @@
 def add(x,y):
-  return x*y
+  return x+y
 
 def sub(x,y):
-  pass
+  return x-y
 
 def mul(x,y):
-  pass
+  return x*y
 
 def div(x,y):
-  pass
+  return x/y
 
 add(45,11)
 sub(44,8)
